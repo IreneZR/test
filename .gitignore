@@ -1,0 +1,6 @@
+*.eeg-info
+*.log
+*.py[cod]
+*.zip
+*~
+
